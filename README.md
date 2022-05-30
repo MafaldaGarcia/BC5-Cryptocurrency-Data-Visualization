@@ -1,4 +1,7 @@
 # BC5-Cryptocurrency-Data-Visualization
+Group PN: Dashboard
+https://share.streamlit.io/simaoercpereira/bc5-cryptocurrency-data-visualization/main/app.py
+
 
 #Introduction:                                                                                                                                                                           
 The partners Warner Buffer and Gil Bates from Investments4Some asked us to build dashboard capable of inform investment decisions and external stakeholders for their financial analysts. 
@@ -21,11 +24,6 @@ In terms of user interactivity, this page has 3 dropdowns where it's possible to
 The asset dropdown will affect the top two graphics.
 The value dropdown affects all visuals but the candlestick.
 The indicator dropdown only affects the candlestick.
-
-
-
-
-
 
 
 
