@@ -3,6 +3,8 @@
 Introduction:
 
 
+This dashboard was made to help Investments4Some in making better investments with the help of our dashboard, with it they will be able to see a daily view of their asset’s values, the predictions for the next day, and compare the different cryptocurrencies and their attributes to try and understand the existing patterns between the assets. The dashboard also has some built-in financial indicators that can help the investors during their analysis.
+
 
 
 Dashboard Instructions:
@@ -19,4 +21,3 @@ Dashboard Layout:
 ![image](https://user-images.githubusercontent.com/90764368/171046107-3c3df899-adf4-4dd6-a8f0-c0572b2f214e.png)
 ![image](https://user-images.githubusercontent.com/90764368/171046124-5fe39b78-af74-459b-8e92-32669fb00985.png)
 ![image](https://user-images.githubusercontent.com/90764368/171046138-73d1a717-afce-4abc-8ea9-4fd3ed4118bc.png)
-
